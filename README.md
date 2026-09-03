@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Lana 👋
 
-<!--
-**lanamayyasa10/lanamayyasa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX Designer and Back End Developer
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- PHP
+- Phyton
+- Expo
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: lannworkarchieve@gmail.com
+instagram: @carapherneliaf 
