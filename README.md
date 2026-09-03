@@ -1,7 +1,7 @@
 # Hi, I'm Lana 🐹✨
 
 UI/UX Designer and Back End Developer <3
-This is my recent design, <a href="https://www.figma.com/proto/1W7i8MveeDBYppXbbStqPv/Untitled?node-id=139-73&t=DB8pQYGz41cwVi18-1">
+This is my recent design, "https://www.figma.com/proto/1W7i8MveeDBYppXbbStqPv/Untitled?node-id=139-73&t=DB8pQYGz41cwVi18-1"
 
 ## 🚀 Skills
 - PHP
@@ -15,5 +15,4 @@ This is my recent design, <a href="https://www.figma.com/proto/1W7i8MveeDBYppXbb
 - Ibist Paint X
 
 ## Contact
-Email: lanamayyasa10@gmail.com
-instagram: @carapherneliaf (https://www.instagram.com/carapherneliaf/)
+Email: lanamayyasa10@gmail.com & Instagram: @carapherneliaf 
