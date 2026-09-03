@@ -1,6 +1,6 @@
 # Hi, I'm Lana ✨
 
-UI/UX Designer | Back End Developer <3
+## UI/UX Designer | Back End Developer <3
 I am Student at SMKN 10 Surabaya majoring Softwares Engineer. Passionate about building digital solutions, exploring software development, and continuously improving my skills in technology.
 
 This is my recent design:
