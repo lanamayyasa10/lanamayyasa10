@@ -4,7 +4,7 @@
 <br clear="both">
 <div align="center">
   
-![Profile GIF](./baner.gif)
+<img src="./banner.gif" width="100%">
 
 </div>
 
