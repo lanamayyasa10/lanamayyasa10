@@ -2,7 +2,7 @@
 <br clear="both">
 ![type GIF](./typewriterr.gif)
 <br clear="both">
-<br clear="both">
+
 <div align="center">
   
 ![Profile GIF](./baner.gif)
