@@ -1,5 +1,5 @@
 ![Welcome GIF](./wlc.gif)
-![type GIF](./typewriter.gif)
+![type GIF](./typewriterr.gif)
 <br clear="both">
 
 <div align="center">
