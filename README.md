@@ -22,7 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
-  <br clear="both">
 
 <h3 data-importer="text" align="left">Other Tech</h3>
 <div data-importer="techs" align="left">
@@ -51,7 +50,7 @@
 </div>
 
 <br clear="both">
-
+<h3 data-importer="text" align="left">Stats</h3>
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=lanamayyasa10&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
