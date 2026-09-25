@@ -1,7 +1,8 @@
 <h2 data-importer="text" align="left">I'm Lana Mayyasa</h2>
 <br clear="both">
+
 <div align="center">
-  <img src="./pfp.gif" width="500" alt="Profile GIF">
+  <img src="pfp.gif" width="500" alt="Profile GIF">
 </div>
 
 <p data-importer="text" align="left">I am a Software Engineering student with a passion for web development, UI/UX design, and emerging technologies. I enjoy transforming creative ideas into thoughtful digital experiences that are both visually refined and functional.</p>
