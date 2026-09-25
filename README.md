@@ -1,5 +1,6 @@
 ![Welcome GIF](./wlc.gif)
 <br clear="both">
+<br clear="both">
 ![type GIF](./typewriterr.gif)
 <br clear="both">
 <br clear="both">
