@@ -2,7 +2,9 @@
 <br clear="both">
 
 <div align="center">
+  
 ![Profile GIF](./pfp.gif)
+
 </div>
 
 <p data-importer="text" align="left">I am a Software Engineering student with a passion for web development, UI/UX design, and emerging technologies. I enjoy transforming creative ideas into thoughtful digital experiences that are both visually refined and functional.</p>
