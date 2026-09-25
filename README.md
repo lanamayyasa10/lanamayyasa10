@@ -1,4 +1,4 @@
-![Welcome GIF](./wlc.gif)
+![Welcome GIF](./baner.gif)
 ![type GIF](./typewriterr.gif)
 <br clear="both">
 <br clear="both">
