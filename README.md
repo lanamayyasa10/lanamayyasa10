@@ -51,8 +51,9 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
 <br clear="both">
+<img data-importer="snake" src="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/snake-output/snake.svg" alt="Snake animation" />
+
 <h3 data-importer="text" align="left">Stats</h3>
 <div data-importer="stats" align="center">
 <div data-importer="stats" align="center">
@@ -61,6 +62,6 @@
 </div>
 </div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/snake-output/snake.svg" alt="Snake animation" />
+
 
 
