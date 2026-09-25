@@ -1,10 +1,10 @@
-![Welcome GIF](./baner.gif)
+![Welcome GIF](./wlc.gif)
 ![type GIF](./typewriterr.gif)
 <br clear="both">
 <br clear="both">
 <div align="center">
   
-![Profile GIF](./pfp.gif)
+![Profile GIF](./baner.gif)
 
 </div>
 
