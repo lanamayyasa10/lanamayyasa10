@@ -1,4 +1,5 @@
 ![Welcome GIF](./wlc.gif)
+![type GIF](./typewriter.gif)
 <h2 data-importer="text" align="left">I'm Lana Mayyasa</h2>
 <br clear="both">
 
