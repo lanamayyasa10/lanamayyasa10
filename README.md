@@ -17,19 +17,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="17" alt="gmail logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=lanamayyasa10&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h3 data-importer="text" align="left">Core Tech</h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -56,6 +43,11 @@
 </div>
 
 <br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=lanamayyasa10&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanamayyasa10/lanamayyasa10/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
