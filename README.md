@@ -1,10 +1,4 @@
-<h2 data-importer="text" align="left">Hello World! Herewith Lan</h2>
-
-###
-<div data-importer="image" align="center">
-  <img data-importer="image" height="155" src="https://imgflip.com/gif/b1yzc6"  />
-</div>
-###
+<h2 data-importer="text" align="left">I'm Lana Mayyasa</h2>
 
 <br clear="both">
 
